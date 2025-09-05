@@ -1,54 +1,24 @@
-# Browser Reset CLI / 浏览器重置工具
+# Augment & Cursor / 浏览器重置工具
 
 ## English
 
-**Create fresh browser profiles with new fingerprints.**
+**Create fresh Account profiles with new fingerprints.**
+For Licence Join - https://t.me/+jTuTq5BLvxU5OWZl
 
 ### 📥 Download
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [BrowserResetCLI.exe](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI.exe) |
-| **macOS** | [BrowserResetCLI.app](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI.app.zip) |
-| **Linux** | [BrowserResetCLI](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI-linux.tar.gz) |
+| **Windows** | [Pika.exe](https://github.com/Automaxx/Augment-reset/releases/tag/v1.0.0) |
+| **macOS** | [Pika.app](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI.app.zip) |
+| **Linux** | [Pika](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI-linux.tar.gz) |
 
 ### 🚀 How to Use
 
-1. **Download** the application for your operating system
-2. **Run** the Pika application
-3. **Enter License**: Input your license key in the top section
-4. **Validate & Save**: Click "Validate" then "Save" to store your license
-5. **Choose Platform**: Select Augment 🔵, Cursor 🟡, or Quoder 🟢 section
-6. **Preview Cleanup** (Optional): Click "Preview Cleanup" to see what will be cleaned
-7. **Create Account**: Click "Create New Account" button
-8. **Confirm**: Confirm the operation in the dialog
-
-The application will automatically:
-- ✓ Remove IDE traces and account stamps
-- ✓ Clear system caches and registry entries
-- ✓ Generate new fingerprint system
-- ✓ Clean browser extensions and data
-- ✓ Create new browser profile
-- ✓ Launch browser with new profile
-
-### 🛡️ Anti-Detection Features
-
-Each platform section includes comprehensive cleanup to prevent account suspension:
-
-**Augment Section:**
-- Removes all Augment IDE data and configuration
-- Clears VS Code extensions and workspace data
-- Removes system traces and cache files
-
-**Cursor Section:**
-- Removes all Cursor IDE data and settings
-- Clears Cursor-specific extensions and storage
-- Removes system traces and cache files
-
-**Quoder Section:**
-- Removes all Quoder IDE data and configuration
-- Clears Quoder-specific extensions and storage
-- Removes system traces and cache files
+1. Download the application for your operating system
+2. Run the application
+3. Enter your license key (contact administrator)
+4. Select browsers and click "Start Browser Reset"
 
 ### 🔐 License Required
 
