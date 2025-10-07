@@ -1,5 +1,5 @@
 # Augment & Cursor / 浏览器重置工具
-
+![App Preview]()
 ## English
 
 **Create fresh Account profiles with new fingerprints.**
