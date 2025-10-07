@@ -24,6 +24,7 @@ For Licence Join - https://t.me/+jTuTq5BLvxU5OWZl
 
 Contact your administrator to obtain a license key.  
 Format: `BRST-XXXX-XXXX-XXXX-XXXX`
+![Uploading Screenshot (12).png…]()
 
 ---
 
