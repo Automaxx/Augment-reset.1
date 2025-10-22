@@ -9,7 +9,7 @@ For Licence Join - https://t.me/+jTuTq5BLvxU5OWZl
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Pika.exe](https://github.com/Automaxx/Augment-reset.1/releases/tag/v1.0.0) |
+| **Windows** | [Pika.exe](https://github.com/Automaxx/Augment-reset.1/releases/tag/v3.0.0) |
 | **macOS** | [Pika.app](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI.app.zip) |
 | **Linux** | [Pika](https://github.com/Automaxx/Augment-reset/releases/latest/download/BrowserResetCLI-linux.tar.gz) |
 
